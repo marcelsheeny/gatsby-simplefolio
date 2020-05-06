@@ -3,6 +3,7 @@ import uuidv1 from 'uuid/v1';
 // HEAD DATA
 export const headData = {
   title: '', // e.g: 'Name | Developer'
+  name: 'Marcel Sheeny',
   lang: '', // e.g: en, es, fr, jp
   description: '', // e.g: Welcome to my website
 };
