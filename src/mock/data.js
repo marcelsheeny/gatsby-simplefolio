@@ -18,9 +18,9 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
-  paragraphOne: 'Hi',
-  paragraphTwo: 'Noooob',
+  img: 'profile.png',
+  paragraphOne: 'I\'m Marcel Sheeny, Computer Vision Engineer with almost 10 years of experience in the field.',
+  paragraphTwo: '',
   paragraphThree: '',
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
@@ -58,6 +58,68 @@ export const projectsData = [
 
 // PROJECTS DATA
 export const publicationsData = [
+  {
+    id: uuidv1(),
+    img: 'project.jpg',
+    title: '',
+    info: '',
+    info2: '',
+    url: '',
+    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+  },
+  {
+    id: uuidv1(),
+    img: 'project.jpg',
+    title: '',
+    info: '',
+    info2: '',
+    url: '',
+    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+  },
+  {
+    id: uuidv1(),
+    img: 'project.jpg',
+    title: '',
+    info: '',
+    info2: '',
+    url: '',
+    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+  },
+];
+
+// PROJECTS DATA
+export const employementData = [
+  {
+    id: uuidv1(),
+    img: 'project.jpg',
+    title: '',
+    info: '',
+    info2: '',
+    url: '',
+    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+  },
+  {
+    id: uuidv1(),
+    img: 'project.jpg',
+    title: '',
+    info: '',
+    info2: '',
+    url: '',
+    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+  },
+  {
+    id: uuidv1(),
+    img: 'project.jpg',
+    title: '',
+    info: '',
+    info2: '',
+    url: '',
+    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+  },
+];
+
+// PROJECTS DATA
+export const educationData = [
   {
     id: uuidv1(),
     img: 'project.jpg',

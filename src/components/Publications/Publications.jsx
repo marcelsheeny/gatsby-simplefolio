@@ -23,7 +23,7 @@ const Projects = () => {
   }, []);
 
   return (
-    <section id="projects">
+    <section id="publications">
       <Container>
         <div className="project-wrapper">
           <Title title="Publications" />
